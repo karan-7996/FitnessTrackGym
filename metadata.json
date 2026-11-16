@@ -1,0 +1,7 @@
+{
+  "name": "Fitness Track Gym (FTG) - 8 Branches Vadodara 3D Showcase",
+  "description": "Interactive 3D building carousel, interior navigation view, 8-branch smart map, and real-time appointment scheduling for Fitness Track Gym Vadodara.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
